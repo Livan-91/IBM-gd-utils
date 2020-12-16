@@ -9,7 +9,7 @@ on:
   schedule:
 #    - cron: 0 4 * * 5
 #    - cron: 0 4 1,15 * *
-    - cron:  0 4 * * 1
+    - cron:  0 4 1 * *
 #  watch:
 #    types: [started]
 
